@@ -1,4 +1,5 @@
-# Dep Optimization Options
+# Dep Optimizati
+on Options
 
 - **Related:** [Dependency Pre-Bundling](/guide/dep-pre-bundling)
 
